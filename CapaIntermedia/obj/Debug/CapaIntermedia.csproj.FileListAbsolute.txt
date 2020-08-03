@@ -1,0 +1,9 @@
+C:\Users\Cheche\Desktop\AppAdminPeliculas\CapaIntermedia\obj\Debug\CapaIntermedia.csprojAssemblyReference.cache
+C:\Users\Cheche\Desktop\AppAdminPeliculas\CapaIntermedia\obj\Debug\CapaIntermedia.csproj.CoreCompileInputs.cache
+C:\Users\Cheche\Desktop\AppAdminPeliculas\CapaIntermedia\bin\Debug\CapaIntermedia.dll
+C:\Users\Cheche\Desktop\AppAdminPeliculas\CapaIntermedia\bin\Debug\CapaIntermedia.pdb
+C:\Users\Cheche\Desktop\AppAdminPeliculas\CapaIntermedia\bin\Debug\Datos.dll
+C:\Users\Cheche\Desktop\AppAdminPeliculas\CapaIntermedia\bin\Debug\Datos.pdb
+C:\Users\Cheche\Desktop\AppAdminPeliculas\CapaIntermedia\obj\Debug\CapaIntermedia.csproj.CopyComplete
+C:\Users\Cheche\Desktop\AppAdminPeliculas\CapaIntermedia\obj\Debug\CapaIntermedia.dll
+C:\Users\Cheche\Desktop\AppAdminPeliculas\CapaIntermedia\obj\Debug\CapaIntermedia.pdb
